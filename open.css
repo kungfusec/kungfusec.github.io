@@ -1,0 +1,48 @@
+.header {
+	text-align: center;
+	margin-top: 20px;
+}
+.openc {
+	margin: 60px;
+	text-align: center;
+}
+.bgi {
+	border-radius: 30px;
+}
+.title {
+    font-size: 36px;
+    font-weight: 400;
+    color: #fff;
+    text-align: center;
+    margin-bottom: 30px;
+}
+.link {
+	color: white;
+	background-color: #e40b20;
+	display: inline-block;
+	width: 156px;
+    height: 36px;
+    line-height: 36px;
+    margin-top: 20px;
+	text-align: center;
+	text-decoration: none;
+	margin-left: 6px;
+	margin-right: 6px;
+	box-shadow: 0px 2px 2px 0px black;
+}
+.cintro {
+	margin: 47px auto 0;
+	width: 60%;
+	margin-top: 60px;
+	text-align: left;
+	color: white;
+	font-size: 19px;
+}
+.contact {
+	text-align: center;
+	color: white;
+	font-size: 14px;
+}
+.redl {
+	color: #e40b20;
+}
